@@ -12,6 +12,7 @@ public class SavingBankAccount extends BankAccount {
 
 	public SavingBankAccount(String accHolderName, String accType, double balance) {
 		super(accHolderName, accType, balance);
+//this is for genkins
 	}
 
 	public void withdraw(double amount) throws Exception {
